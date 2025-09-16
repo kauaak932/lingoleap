@@ -1,0 +1,7 @@
+{
+  "name": "LingoLeap AI",
+  "description": "An AI-powered English learning application to practice speaking, writing, reading, and listening skills with the help of Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
